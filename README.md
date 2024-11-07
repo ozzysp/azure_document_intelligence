@@ -34,14 +34,20 @@ O projeto consiste em um aplicativo Streamlit simples que permite aos usuários 
 Crie um ambiente virtual (recomendado):
 
 Linux/macOS:
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
+```
+```bash
 Windows:
 python -m venv .venv
 .venv\Scripts\activate
+```
 Instale as dependências:
-
+```bash
 pip install -r requirements.txt
+```
+
 ⚙️ Configuração
 Crie um arquivo .env na raiz do projeto:
 
