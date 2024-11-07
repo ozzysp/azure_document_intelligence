@@ -27,11 +27,13 @@ O projeto consiste em um aplicativo Streamlit simples que permite aos usuários 
 ### 📥 Clonando o Repositório
 
 1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/your-username/azure-document-intelligence-credit-card.git
-   cd azure-document-intelligence-credit-card
-🔧 Instalação
-Crie um ambiente virtual (recomendado):
+```bash
+git clone https://github.com/your-username/azure-document-intelligence-credit-card.git
+cd azure-document-intelligence-credit-card
+```
+
+🔧 Instalação:
+Crie um ambiente virtual
 
 Linux/macOS:
 ```bash
